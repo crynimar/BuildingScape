@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BuildingScape",
+			"Path": "D:\\Estudos unreal\\Building Scape\\BuildingScape\\Source\\BuildingScape.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BuildingScapeEditor",
+			"Path": "D:\\Estudos unreal\\Building Scape\\BuildingScape\\Source\\BuildingScapeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

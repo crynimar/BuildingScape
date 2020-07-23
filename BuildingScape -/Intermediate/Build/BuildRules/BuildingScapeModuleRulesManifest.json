@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Estudos unreal\\Building Scape\\BuildingScape\\Source\\BuildingScape\\BuildingScape.Build.cs",
+		"D:\\Estudos unreal\\Building Scape\\BuildingScape\\Source\\BuildingScape.Target.cs",
+		"D:\\Estudos unreal\\Building Scape\\BuildingScape\\Source\\BuildingScapeEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

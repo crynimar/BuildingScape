@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "BuildingScape",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "D:\\Epic Games\\UE_4.24"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"typeindex": "cpp",
+			"typeinfo": "cpp",
+			"system_error": "cpp",
+			"xlocale": "cpp",
+			"__functional_03": "cpp",
+			"functional": "cpp"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-vscode.csharp"
+		]
+	}
+}
